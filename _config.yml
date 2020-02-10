@@ -1,2 +1,13 @@
 theme: jekyll-theme-merlot
-title: 2019-nCoV Surveillance Dashboard | NSSAC Research
+title: 2019-nCoV Surveillance Dashboard
+tagline: 2019-nCoV Surveillance Dashboard | NSSAC Research
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
