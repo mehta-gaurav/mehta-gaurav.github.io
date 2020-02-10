@@ -1,3 +1,8 @@
+---
+layout: page
+title: Surveillance Dashboard
+---
+
 In an effort to support planning and response efforts to the recent Corona Virus outbreak,
 the [Network Systems Science and Advanced Computing (NSSAC)](https://biocomplexity.virginia.edu/nssac)
 division of the [Biocomplexity Institute and Initiative](https://biocomplexity.virginia.edu/) 
