@@ -2,6 +2,7 @@ title: Corona Surveillance Dashboard
 tagline: 2019-nCoV Surveillance Dashboard | NSSAC Research
 version: Beta (2020-02-10)
 baseurl: "https://mehta-gaurav.github.io/"
+dashboardPageurl: "https://mehta-gaurav.github.io/dashboard"
 
 # Optimize Jekyll
 exclude:
