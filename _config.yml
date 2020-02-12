@@ -6,6 +6,7 @@ baseurl: "https://mehta-gaurav.github.io/"
 aboutUrl: "https://mehta-gaurav.github.io/about"
 dashboardUrl : "https://mehta-gaurav.github.io/dashboard"
 
+theme: just-the-docs
 
 # Optimize Jekyll
 exclude:
