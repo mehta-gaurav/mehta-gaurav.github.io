@@ -1,33 +1,38 @@
 <div class="sidebar">
-  <div class="container>
-    <div class="sidebar-about">
+   <div class="container>
+      <div class="sidebar-about">
       <h2>
-        <a href="{{ site.baseurl }}">
-          {{ site.title }}
-        </a>
+         <a href="{{ site.baseurl }}">
+         {{ site.title }}
+         </a>
       </h2>
       <p class="lead">{{ site.description }}</p>
-    </div>
-
-    <nav class="sidebar-nav">
+   </div>
+   <nav class="sidebar-nav">
       <ul>
-        <!--li><a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a></li-->
-        <li><a class="sidebar-nav-item{% if page.url == site.dashboardUrl %} active{% endif %}" href="{{ site.dashboardUrl }}">COVID-19</a>
-        <ul>
-			<li><a href="#">Surveillance Dashboard</a></li>
-			<li><a href="#">Imported Cases Dashboard</a></li>
-			<li><a href="#">Datasets</a></li>
-			<li><a href="#">News</a></li>
-			<li><a href="#">Other Resources</a></li>
-		</ul>
-      <a class="sidebar-nav-item{% if page.url == site.aboutUrl %} active{% endif %}" href="{{ site.aboutUrl }}">About</a>
-	  </ul>
-
-    </nav>
-
-    <div class="sidebar-sticky">
+         <!-- <li><a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a></li> -->
+         <li>
+            <a class="sidebar-nav-item{% if page.url == site.dashboardUrl %} active{% endif %}" href="{{ site.dashboardUrl }}">COVID-19</a>
+            <ul>
+               <li><a href="#">Surveillance Dashboard</a></li>
+               <li><a href="#">Imported Cases Dashboard</a></li>
+               <li>
+                  <a href="#">Datasets</a>
+                  <ul>
+                     <li><a href="#">Datasets - 1</a></li>
+                     <li><a href="#">Datasets - 2</a></li>
+                     <li><a href="#">Datasets - 3</a>
+                  </ul>
+               </li>
+               <li><a href="#">News</a></li>
+               <li><a href="#">Other Resources</a></li>
+            </ul>
+         </li>
+         <li><a class="sidebar-nav-item{% if page.url == site.aboutUrl %} active{% endif %}" href="{{ site.aboutUrl }}">About</a></li>
+      </ul>
+   </nav>
+   <div class="sidebar-sticky">
       <a href="https://biocomplexity.virginia.edu" target="_blank"><img src="images/bii_logo_v5-01.png" style="width: 70%; margin: 0;"></a>
       <p style="font-size: 15px;">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
-  </div>
-   </div>   
+   </div>
 </div>
