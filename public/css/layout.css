@@ -79,7 +79,7 @@ a:-webkit-any-link {
     display: none;
     left: 100% !important;
     top: 0 !important;
-    position: absolute;
+    //position: absolute;
 }
 
 #menu input[type="checkbox"]:checked+.sub-menu {
