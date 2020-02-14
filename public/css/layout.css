@@ -72,7 +72,7 @@ a:-webkit-any-link {
 
 #menu a:hover {
     background-color: white;
-    color: #09c;
+    color: #232D4B;
 }
 
 #menu .sub-menu {
@@ -87,7 +87,7 @@ a:-webkit-any-link {
 }
 
 #menu .sub-menu a:hover {
-    color: #444;
+    color: #232D4B;
 }
 
 #toggle-menu .drop-icon,
