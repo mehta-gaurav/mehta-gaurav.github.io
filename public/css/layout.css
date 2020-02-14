@@ -29,7 +29,7 @@
 }
 
 #menu .sub-menu {
-    background-color: #09c;
+    //background-color: #09c;
     border-width: 1px 1px 0;
    //margin: 0 1em;
 }
@@ -46,7 +46,7 @@
     color: white;
     text-shadow: 1px 1px 0 rgba(0, 0, 0, .125);
     //background-color: #09c;
-    width: 125px;
+    width: 114px;
     font-size: 16px;
 }
 
