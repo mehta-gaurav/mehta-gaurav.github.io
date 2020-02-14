@@ -29,7 +29,7 @@
 }
 
 #menu .sub-menu {
-    //background-color: #09c;
+    background-color: #232D4B;;
     border-width: 1px 1px 0;
    //margin: 0 1em;
 }
@@ -46,8 +46,8 @@
     color: white;
     text-shadow: 1px 1px 0 rgba(0, 0, 0, .125);
     //background-color: #09c;
-    width: 113px;
-    font-size: 13px;
+    width: 145px;
+    font-size: 16px;
     text-align: center;
 }
 
@@ -134,7 +134,7 @@ a:-webkit-any-link {
     #menu li {
         float: none;
         border-width: 0 1px 0 0;
-        border-bottom: 0.5px groove white;
+        //border-bottom: 0.5px groove white;
 
     }
     #menu .sub-menu li {
@@ -148,7 +148,7 @@ a:-webkit-any-link {
         left: 0;
         //width: 12em;
         z-index: 3000;
-        border-bottom: 0.5px groove white;
+        //border-bottom: 0.5px groove white;
 
     }
     /* #menu .sub-menu,
