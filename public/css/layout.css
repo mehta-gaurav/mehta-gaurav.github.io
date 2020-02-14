@@ -134,7 +134,7 @@ a:-webkit-any-link {
     #menu li {
         float: none;
         border-width: 0 1px 0 0;
-        border: 0.5px groove white;
+        border-bottom: 0.5px groove white;
 
     }
     #menu .sub-menu li {
@@ -148,7 +148,7 @@ a:-webkit-any-link {
         left: 0;
         //width: 12em;
         z-index: 3000;
-        border: 0.5px groove white;
+        border-bottom: 0.5px groove white;
 
     }
     /* #menu .sub-menu,
