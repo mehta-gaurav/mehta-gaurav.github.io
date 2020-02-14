@@ -8,11 +8,16 @@
       </h2>
       <p class="lead">{{ site.description }}</p>
    </div>
-   <nav class="sidebar-nav">
-      <ul>
+   <nav id="menu" class="sidebar-nav">
+	  <label for="tm" id="toggle-menu">Navigation <span class="drop-icon">▾</span></label>
+      <input type="checkbox" id="tm">
+      <ul class="main-menu clearfix">
          <!-- <li><a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a></li> -->
          <li>
-            <a class="sidebar-nav-item{% if page.url == site.dashboardUrl %} active{% endif %}" href="{{ site.dashboardUrl }}">COVID-19</a>
+            <a class="sidebar-nav-item{% if page.url == site.dashboardUrl %} active{% endif %}" href="{{ site.dashboardUrl }}">COVID-19
+				<span class="drop-icon">▾</span>
+				<label title="Toggle Drop-down" class="drop-icon" for="sm1">▾</label>
+			</a>
             <ul>
                <li><a href="#">Surveillance Dashboard</a></li>
                <li><a href="#">Imported Cases Dashboard</a></li>
