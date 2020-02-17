@@ -3,17 +3,19 @@
     padding: 0;
 }
 
-#menu .main-menu {
-    display: none;
+ #menu .main-menu {
+    display: block;
 }
 
- #tm:checked+.main-menu {
+/*  #tm:checked+.main-menu {
     display: block;
-} 
+}   */
+
+
 
  #menu input[type="checkbox"],
 #menu ul span.drop-icon {
-   // display: none;
+    display: none;
 } 
 
 #menu li,
