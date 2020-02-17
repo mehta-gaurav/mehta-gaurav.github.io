@@ -96,7 +96,7 @@ a:-webkit-any-link {
 #menu li label.drop-icon {
     position: absolute;
     right: 1.5em;
-    top: 1.25em;
+    //top: 1.25em;
 }
 
 #menu label.drop-icon,
@@ -108,6 +108,7 @@ a:-webkit-any-link {
     background-color: rgba(0, 0, 0, .125);
     text-shadow: 0 0 0 transparent;
     color: rgba(255, 255, 255, .75);
+    font-size: 35px;
 }
 
 #menu .drop-icon {
