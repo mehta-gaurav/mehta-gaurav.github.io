@@ -7,14 +7,14 @@
     display: none;
 }
 
-/* #tm:checked+.main-menu {
+ #tm:checked+.main-menu {
     display: block;
-} */
+} 
 
-/* #menu input[type="checkbox"],
+ #menu input[type="checkbox"],
 #menu ul span.drop-icon {
     display: none;
-} */
+} 
 
 #menu li,
 #toggle-menu,
