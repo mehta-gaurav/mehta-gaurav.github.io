@@ -172,8 +172,12 @@ a:-webkit-any-link {
     }
     
     #menu .main-menu li:first-child {
-    display: none;
-}
+        display: none;
+    }
+    
+     #menu .sub-menu li:first-child {
+        display: block;
+    }
 }
 
 @media (max-width: 52.01em) {
