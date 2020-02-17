@@ -46,7 +46,7 @@
     color: white;
     text-shadow: 1px 1px 0 rgba(0, 0, 0, .125);
     //background-color: #09c;
-    width: 130px;
+    width: 200px;
     
    
 }
@@ -167,4 +167,18 @@ a:-webkit-any-link {
     #menu li:hover>input[type="checkbox"]+.sub-menu {
         display: block;
     }
+}
+
+@media (max-width: 52em) {
+    #menu li,
+#toggle-menu,
+#menu a {
+    position: relative;
+    display: block;
+    color: white;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, .125);
+    //background-color: #09c;
+    width: 200px;
+
+ }
 }
