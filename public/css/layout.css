@@ -172,8 +172,10 @@ a:-webkit-any-link {
 @media (max-width: 52.01em) {
 #menu .sub-menu {
      display: none;
-    position: relative;
-    left:0 !important;
+     position: relative;
+     left:0 !important;
+     padding-left: 15px;
+
    }
     
     #menu li,
