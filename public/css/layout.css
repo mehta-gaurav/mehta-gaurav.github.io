@@ -100,7 +100,7 @@ a:-webkit-any-link {
 #menu label.drop-icon,
 #toggle-menu span.drop-icon {
     border-radius: 50%;
-    width: 9em;
+    width: 1em;
     height: 1em;
     text-align: center;
     background-color: rgba(0, 0, 0, .125);
