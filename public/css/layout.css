@@ -174,7 +174,13 @@ a:-webkit-any-link {
      display: none;
     position: relative;
     left:0 !important;
- }
+   }
+    
+    #menu li,
+#toggle-menu,
+#menu a {
+      width: 150px;
+   }
 }
 
 
