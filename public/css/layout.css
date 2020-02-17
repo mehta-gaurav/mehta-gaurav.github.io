@@ -170,6 +170,10 @@ a:-webkit-any-link {
     #menu li:hover>input[type="checkbox"]+.sub-menu {
         display: block;
     }
+    
+    #menu .main-menu li:first-child {
+    display: none;
+}
 }
 
 @media (max-width: 52.01em) {
