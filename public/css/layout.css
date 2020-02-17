@@ -4,7 +4,7 @@
 }
 
 #menu .main-menu {
-    display: none;
+    //display: none;
 }
 
  #tm:checked+.main-menu {
