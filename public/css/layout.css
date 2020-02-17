@@ -181,11 +181,11 @@ a:-webkit-any-link {
 
    }
     
-/*     #menu li,
+    #menu li,
 #toggle-menu,
 #menu a {
-      width: 170px;
-   } */
+      width: 300px;
+   }
 }
 
 
