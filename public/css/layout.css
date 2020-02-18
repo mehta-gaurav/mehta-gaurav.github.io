@@ -11,7 +11,7 @@
     display: block;
 }   */
 
-#menu li:focus>input[type="checkbox"]+.sub-menu {
+#menu li>input[type="checkbox"]+.sub-menu {
         display: block;
     }
 
@@ -86,9 +86,9 @@ a:-webkit-any-link {
     position: absolute;
 }
 
-#menu input[type="checkbox"]:checked+.sub-menu {
+/* #menu input[type="checkbox"]:checked+.sub-menu {
     display: block;
-}
+} */
 
 #menu .sub-menu a:hover {
     color: #232D4B;
