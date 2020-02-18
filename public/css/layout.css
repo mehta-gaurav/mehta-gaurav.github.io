@@ -86,10 +86,7 @@ a:-webkit-any-link {
     position: absolute;
 }
 
-#menu li:hover input[type="checkbox"]:checked+.sub-menu {
-    display: block;
-}
-#menu .sub-menu:hover {
+#menu input[type="checkbox"]:checked+.sub-menu {
     display: block;
 }
 
