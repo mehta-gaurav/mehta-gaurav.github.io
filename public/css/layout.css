@@ -72,7 +72,7 @@ a:-webkit-any-link {
     -webkit-transition: all .125s ease-in-out;
 }
 
-#menu a:hover {
+#menu a:not(:first-child):hover {
     background-color: white;
     color: #232D4B;
 }
