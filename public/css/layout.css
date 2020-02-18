@@ -89,7 +89,7 @@ a:-webkit-any-link {
 #menu li:hover input[type="checkbox"]:checked+.sub-menu {
     display: block;
 }
-#menu li:hover .sub-menu {
+#menu .sub-menu:hover {
     display: block;
 }
 
