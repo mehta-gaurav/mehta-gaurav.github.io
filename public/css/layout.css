@@ -11,7 +11,9 @@
     display: block;
 }   */
 
-
+#menu li:active>input[type="checkbox"]+.sub-menu {
+        display: block;
+    }
 
  #menu input[type="checkbox"],
 #menu ul span.drop-icon {
