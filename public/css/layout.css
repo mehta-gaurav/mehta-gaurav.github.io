@@ -160,9 +160,9 @@ a:-webkit-any-link {
         top: 0;
         left: 100%;
     }
-    #menu li:hover>input[type="checkbox"]+.sub-menu {
+/*     #menu li:hover>input[type="checkbox"]+.sub-menu {
         display: block;
-    }
+    } */
     
     #menu .main-menu li:first-child {
         display: none;
