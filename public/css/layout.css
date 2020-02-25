@@ -161,11 +161,11 @@ a:-webkit-any-link {
         left: 100%;
     }
     
-    #menu li>input[type="checkbox"]+.sub-menu {
+    #menu .sub-menu li>input[type="checkbox"]+.sub-menu {
         display: block;
     }
     
-    #menu li>input[type="checkbox"]+.sub-menu .sub-menu1 {
+    #menu .sub-menu li>input[type="checkbox"]+.sub-menu .sub-menu1 {
         display: none;
     }
     
