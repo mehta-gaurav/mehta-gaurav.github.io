@@ -5,6 +5,8 @@
 
  #menu .main-menu {
     display: block;
+    font-size: 19px;
+
 }
 
 /*  #tm:checked+.main-menu {
