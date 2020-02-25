@@ -135,7 +135,7 @@ a:-webkit-any-link {
 @media only screen and (min-width: 52.01em) {
     #menu .main-menu {
     display: block;
-    overflow-y: scroll;
+/*     overflow-y: scroll; */
 }
     #toggle-menu,
     #menu label.drop-icon {
