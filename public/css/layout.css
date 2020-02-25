@@ -109,8 +109,8 @@ a:-webkit-any-link {
 
 #toggle-menu .drop-icon,
 #menu li label.drop-icon {
-    position: absolute;
-    right: 4.5em;
+/*     position: absolute;
+    right: 4.5em; */
 }
 
 #menu label.drop-icon,
