@@ -1,4 +1,4 @@
-## Biocomplexity Resources for COVID-19 Epidemic Response
+
 [Support](mailto:nssac_ncov_support@virginia.edu?subject=Surveillance%20Dashboard)
 
 The Novel 2019 Coronavirus (COVID-19) is a rapidly spreading epidemic that originated in Wuhan, China. Because there are so many unknowns – where it came from, how long it incubates, and when during the incubation people become contagious –- data collection has been a challenge, making it difficult for researchers to identify effective interventions. In addition, the rapid spread of the disease, when coupled with the elevated death rate, is raising public anxiety, which opens the door to disinformation campaigns and conspiracy theories, as well as misinformation about effective strategies for avoiding illness.
