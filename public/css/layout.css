@@ -71,7 +71,7 @@ a:-webkit-any-link {
 }
 
 #menu a:hover {
-    background-color: white;
+    background-color: #d2d2d2;
     color: #232D4B;
 }
 
