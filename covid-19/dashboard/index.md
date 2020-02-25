@@ -6,7 +6,7 @@ the [Network Systems Science and Advanced Computing (NSSAC)](https://biocomplexi
 division of the [Biocomplexity Institute and Initiative](https://biocomplexity.virginia.edu/) 
 at the [University of Virginia](https://www.virginia.edu/) has prepared a visualization tool that provides an alternate way of examining data curated by [JHU](https://github.com/CSSEGISandData/COVID-19/tree/master/daily_case_updates) and NSSAC. For a quick overview, please see the video below:
 
-[![COVID-19 Surveillance Dashboard](videoimage.png)](https://youtu.be/xJWTc3bo8q4 "COVID-19 Surveillance Dashboard")
+[![COVID-19 Surveillance Dashboard](/covid-19/dashboard/videoimage.png)](https://youtu.be/xJWTc3bo8q4 "COVID-19 Surveillance Dashboard")
 
 Key features of our tool include:
 
