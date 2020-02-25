@@ -1,5 +1,5 @@
 ## COVID-19 Useful Links 
-[NSSAC Research Home](https://nssac.github.io/) | [Support](mailto:nssac_ncov_support@virginia.edu?subject=Surveillance%20Dashboard)
+[Support](mailto:nssac_ncov_support@virginia.edu?subject=Surveillance%20Dashboard)
 
 This page serves as a collective resource for researchers on COVID-19.
 
