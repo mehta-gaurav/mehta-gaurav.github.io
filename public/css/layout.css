@@ -126,7 +126,11 @@ a:-webkit-any-link {
 }
 
 #menu .drop-icon {
+  bottom: 5px;
     line-height: 1;
+    font-size: x-small;
+    position: relative;
+    left: 20px;
 }
 
 @media only screen and (max-width: 64em) and (min-width: 52.01em) {
