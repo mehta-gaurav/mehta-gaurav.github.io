@@ -1,5 +1,4 @@
 ## [COVID-19 Imported Cases Dashboard](https://datastudio.google.com/u/0/reporting/f6ad0988-f203-45f8-8d18-5d726c1d2d8b/page/MGzDB) 
- [Support](mailto:nssac_ncov_support@virginia.edu?subject=Imported%20Cases%20Dashboard)
 
 ##### 02/11/2020
 
@@ -52,3 +51,6 @@ Please report any suggestions, bug reports, or additional data sources you think
 by contacting covid-2019_imported_cases@virginia.edu.
 
 Supported Browsers: Firefox, Google Chrome, Internet Explorer, Safari, iPad, and mobile.
+
+ [Support](mailto:nssac_ncov_support@virginia.edu?subject=Imported%20Cases%20Dashboard)
+
