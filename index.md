@@ -9,7 +9,7 @@ Welcome to the [Network Systems Science and Advanced Computing (NSSAC)](https://
 - [COVID-19 Research at NSSAC](./covid-19/index)
 - [COVID-19 Surveillance Dashboard](./dashboard) By NSSAC BII University of Virginia
 - [COVID-19 Imported Cases Dashboard](./covid-19_imported_cases) By NSSAC BII University of Virginia
-- [Other Resources](./other_resources) 
+
 
 ### Contact Us
 - For queries related to the COVID-19 outbreak, please contact [Bryan Lewis and Srini Venkatramanan](mailto:nssac_covid19_coordinators@virginia.edu?subject=Research%20Website%20COVID-19%20Query)
