@@ -50,7 +50,7 @@
     display: block;
     color: white;
     text-shadow: 1px 1px 0 rgba(0, 0, 0, .125);
-    width: 235px;       
+   // width: 235px;       
 }
 
 a:-webkit-any-link {
