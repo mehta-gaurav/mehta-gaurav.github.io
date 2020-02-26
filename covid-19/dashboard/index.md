@@ -23,8 +23,6 @@ made available by the [World Health Organization (WHO)](https://www.who.int/emer
 
 **Supported Browsers**: Firefox, Google Chrome, Internet Explorer, Safari, iPad and mobile.
 
-### [Support](mailto:nssac_ncov_support@virginia.edu?subject=Surveillance%20Dashboard)
-
 
 ### Updates
 
