@@ -1,4 +1,4 @@
-## Publications & Presentations\
+## Publications & Presentations
 
 
 - [Evaluating the impact of international airline suspensions on COVID-19 direct importation risk](https://www.medrxiv.org/content/10.1101/2020.02.20.20025882v1).
