@@ -67,7 +67,7 @@ a:-webkit-any-link {
 #menu a {
    padding: .6em 0.5em;
    border-bottom: 0.4px groove rgba(255,255,255,.5);
-   border-width: 1px 1px 0;
+ //  border-width: 1px 1px 0;
     
 }
 
