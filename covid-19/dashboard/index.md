@@ -23,6 +23,9 @@ made available by the [World Health Organization (WHO)](https://www.who.int/emer
 
 **Supported Browsers**: Firefox, Google Chrome, Internet Explorer, Safari, iPad and mobile.
 
+### [Support](mailto:nssac_ncov_support@virginia.edu?subject=Surveillance%20Dashboard)
+
+
 ### Updates
 
 ##### 02/21/2020
@@ -39,4 +42,3 @@ In addition to UI improvements throughout the app, we now offer support for mobi
 ##### 02/03/2020
 
 Initial Beta release of the system
-[Support](mailto:nssac_ncov_support@virginia.edu?subject=Surveillance%20Dashboard)
