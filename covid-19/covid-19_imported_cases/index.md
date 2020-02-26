@@ -50,7 +50,6 @@ The current version of the tool is a beta release; we will be providing updates 
 Please report any suggestions, bug reports, or additional data sources you think we should consider 
 by contacting covid-2019_imported_cases@virginia.edu.
 
-##  [Support](mailto:nssac_ncov_support@virginia.edu?subject=Imported%20Cases%20Dashboard)
 Supported Browsers: Firefox, Google Chrome, Internet Explorer, Safari, iPad, and mobile.
 
 
