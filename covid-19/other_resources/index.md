@@ -26,4 +26,3 @@ This page serves as a collective resource for researchers on COVID-19.
 - [by Dingxiangyuan](https://3g.dxy.cn/newh5/view/pneumonia){:target="_blank"}
 - [by Tencent](https://news.qq.com/zt2020/page/feiyan.htm){:target="_blank"}
 
-[Support](mailto:nssac_ncov_support@virginia.edu?subject=Surveillance%20Dashboard)
