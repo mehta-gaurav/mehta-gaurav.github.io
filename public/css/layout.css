@@ -66,6 +66,9 @@ a:-webkit-any-link {
 #toggle-menu,
 #menu a {
    padding: .6em 0.5em;
+   background-color: #232D4B;;
+   border-width: 1px 1px 0;
+    
 }
 
 #menu a {
