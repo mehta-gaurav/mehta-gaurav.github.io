@@ -5,7 +5,7 @@
 
  #menu .main-menu {
     display: block;
-    font-size: 18px;
+    font-size: 16px;
 
 }
 
@@ -157,9 +157,11 @@ a:-webkit-any-link {
 
 @media only screen and (min-width: 52.01em) {
     #menu .main-menu {
-    display: block;
-/*     overflow-y: scroll; */
-}
+    display: block;       
+    font-size: 18px;
+    /* overflow-y: scroll; */
+    }
+    
     #toggle-menu,
     #menu label.drop-icon {
         display: none;
