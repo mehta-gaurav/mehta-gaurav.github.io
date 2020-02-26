@@ -100,7 +100,7 @@ a:-webkit-any-link {
     display: block;
 }
 
- #menu input[type="checkbox"] .sub-menu .sub-menu1 {
+ #menu .sub-menu input[type="checkbox"] .sub-menu1 {
         display: none;
     }
  #menu input[type="checkbox"]:checked+.sub-menu .sub-menu1 {
