@@ -7,9 +7,9 @@ Welcome to the [Network Systems Science and Advanced Computing (NSSAC)](https://
 
 ### COVID-19 Resources (formerly 2019-nCoV)
 - [COVID-19 Research at NSSAC](./covid-19/index)
-- [COVID-19 Surveillance Dashboard](http://nssac.bii.virginia.edu/covid-19/dashboard/){:target="_blank"}  
+- [COVID-19 Surveillance Dashboard](http://nssac.bii.virginia.edu/covid-19/dashboard/){:target="_blank"}
   - [_About this dashboard_](../covid-19/dashboard)
-- [COVID-19 Cases and Clusters Outside of China Dashboard](https://datastudio.google.com/u/0/reporting/f6ad0988-f203-45f8-8d18-5d726c1d2d8b/page/MGzDB){:target="_blank"}  
+- [COVID-19 Cases and Clusters Outside of China Dashboard](https://datastudio.google.com/u/0/reporting/f6ad0988-f203-45f8-8d18-5d726c1d2d8b/page/MGzDB){:target="_blank"}
   - [_About this dashboard_](../covid-19/covid-19_imported_cases)
 - [Import Risk](https://nssac.github.io/covid-19/import_risk.html){:target="_blank"}
 - [Evaluating the impact of international airline suspensions on COVID-19 direct importation risk](https://www.medrxiv.org/content/10.1101/2020.02.20.20025882v1){:target="_blank"}
