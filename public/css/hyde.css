@@ -79,6 +79,7 @@ html {
 /* About section */
 .sidebar-about {
   text-align: left;
+  padding-left: 20px;
 }
 
 .sidebar-about h2 {
