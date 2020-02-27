@@ -60,6 +60,10 @@ html {
   background-color: #202020;
 }
 
+.sidebar-sticky {
+   padding-left: 2em; 
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
