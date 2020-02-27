@@ -118,6 +118,7 @@ a.sidebar-nav-item:focus {
     right:  1rem;
     bottom: 0.1rem;
     left:   1rem;
+    padding-left: 20px;
   }
 }
 
