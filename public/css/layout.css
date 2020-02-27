@@ -249,7 +249,7 @@ a:-webkit-any-link {
 }
     
 #menu li, #toggle-menu, #menu a {
-      width: 300px;
+/*       width: 300px; */
    }
 .logo {
         width: 65%;
