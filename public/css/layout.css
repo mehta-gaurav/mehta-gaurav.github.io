@@ -157,7 +157,7 @@ a:-webkit-any-link {
 @media only screen and (min-width: 52.01em) {
     #menu .main-menu {
     display: block;       
-    font-size: 18px;
+    font-size: 17px;
     /* overflow-y: scroll; */
     }
     
@@ -184,7 +184,7 @@ a:-webkit-any-link {
         left: 0;
         z-index: 3000;
         border-bottom: 0.4px groove rgba(255,255,255,.5);
-        font-size: 16px;
+        font-size: 14px;
     }
     
     
@@ -218,7 +218,7 @@ a:-webkit-any-link {
     }
     
     .sidebar_scroll {
-    line-height: 1.1rem;
+    line-height: 1rem;
     overflow-y: auto;
     max-height: 65vh;
     direction: rtl; 
