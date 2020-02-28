@@ -77,6 +77,14 @@ a:-webkit-any-link {
     color: #232D4B;
 }
 
+#menu a::after {
+      color: #232D4B;
+}
+
+#menu a:: before {
+     background-color: #d2d2d2;
+}
+
 #menu .sub-menu {
      display: none;
 /*     left: 100% !important;
