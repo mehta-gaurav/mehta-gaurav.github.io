@@ -1,14 +1,15 @@
-// $('li a').click(function(){
-//     $('li a').removeClass("active");
-//     $(this).addClass("active");
-// });
+var parts = window.location.href.split('/');
+var match = parts.pop() || parts.pop(); 
+
+if (match) {
+        $("li a").each(function() {
+
+var aa = this.href.substring(this.href.lastIndexOf('/') + 1);
 
 
- jQuery(function() {
-    var pgurl = window.location.href.substr(window.location.href
-      .lastIndexOf("/")+1);
-    jQuery(" ul li a").each(function(){
-      if(jQuery(this).attr("href") == pgurl || jQuery(this).attr("href") == '' )
-        jQuery(this).addClass("active");
-    })
-  });
+            if (aa == match) {
+                $(this).addClass("active");
+            }
+        });
+    }
+
