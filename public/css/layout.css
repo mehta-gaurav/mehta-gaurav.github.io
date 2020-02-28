@@ -77,10 +77,10 @@ a:-webkit-any-link {
     -webkit-transition: all .125s ease-in-out;
 }
 
-/* #menu a:hover {
-    background-color: #d2d2d2;
-    color: #232D4B;
-} */
+#menu a:hover {
+    background-color: #232D4B;
+    color: white;
+}
 
 
 
