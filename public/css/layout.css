@@ -79,7 +79,7 @@ a:-webkit-any-link {
 
 #menu a:hover {
     background-color: #232D4B;
-    color: white;
+    color: white !important;
 }
 
 
