@@ -9,6 +9,11 @@
 
 }
 
+.active-link {
+      background-color: #d2d2d2;
+    color: #232D4B;
+}
+
 /*  #tm:checked+.main-menu {
     display: block;
 }   */
