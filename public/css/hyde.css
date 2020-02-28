@@ -60,6 +60,7 @@ html {
   background-color: #202020;
 }
 
+
 .sidebar-sticky {
    padding-left: 2em; 
 }
@@ -72,6 +73,11 @@ html {
     bottom: 0;
     width: 15rem;
     text-align: left;
+  }
+  
+  .head-img {
+    width: calc(100% - 15em);
+    float: right;
   }
 }
 
