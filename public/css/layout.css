@@ -10,8 +10,9 @@
 }
 
 .active {
-       color: #232D4B !important;
-    background-color: #ffa343;
+    color: white !important;
+    background-color: #000033;
+    border-right: 7px solid orange !important;
 }
 
 /*  #tm:checked+.main-menu {
