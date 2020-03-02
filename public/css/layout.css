@@ -4,7 +4,7 @@
 }
 
  #menu li {   
-      border-bottom: 0.4px groove rgba(255,255,255,.5); 
+/*       border-bottom: 0.4px groove rgba(255,255,255,.5);  */
     }
 
  #menu .main-menu {
@@ -91,7 +91,7 @@ a:-webkit-any-link {
 
 #menu .sub-menu {
      display: block;
-     border-bottom: 0.4px groove rgba(255,255,255,.5);
+/*      border-bottom: 0.4px groove rgba(255,255,255,.5); */
 
 /*     left: 100% !important;
     top: 0 !important; */
@@ -102,7 +102,7 @@ a:-webkit-any-link {
 #menu .sub-menu1  {
          display: block;
     padding-left: 45px;
-    border-bottom: 0.4px groove rgba(255,255,255,.5);
+/*     border-bottom: 0.4px groove rgba(255,255,255,.5); */
 
 /*     left: 100%;
     top: 0; */
