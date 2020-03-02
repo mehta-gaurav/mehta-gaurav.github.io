@@ -86,7 +86,7 @@ a:-webkit-any-link {
 
 
 #menu .sub-menu {
-     display: none;
+     display: block;
 /*     left: 100% !important;
     top: 0 !important; */
     padding-left: 20px;
@@ -94,7 +94,7 @@ a:-webkit-any-link {
 }
 
 #menu .sub-menu1  {
-         display: none;
+         display: block;
     padding-left: 25px;
     left: 100%;
     top: 0;
