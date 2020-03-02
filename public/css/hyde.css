@@ -65,6 +65,10 @@ html {
    padding-left: 2em; 
 }
 
+.head-img {
+    border-top: 5px solid #E57200;
+  }
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -78,6 +82,8 @@ html {
   .head-img {
     width: calc(100% - 15em);
     float: right;
+    border-top: 5px solid #E57200;
+
   }
 }
 
