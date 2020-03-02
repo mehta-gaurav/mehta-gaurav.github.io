@@ -17,16 +17,16 @@
       <script>       
     $(document).ready(function(){
     var parts = window.location.href.split('/');
-    var match = parts.pop() || parts.pop(); 
+var match = parts.pop() || parts.pop(); 
 
-     if (match) {
+if (match) {
         $("ul li a").each(function() {
 
-      var aa =  $(this).attr("title");
+var aa = this.href.substring(this.href.lastIndexOf('/') + 1);
 
 
             if (aa == match) {
-               $(this).addClass("active");
+                $(this).addClass("active");
             }
         });
     }
