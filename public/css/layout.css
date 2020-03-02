@@ -186,6 +186,7 @@ a:-webkit-any-link {
         float: none;
     }
     #menu .sub-menu {
+        display: block;
         border-width: 0;
         position: relative;
         top: 100%;
