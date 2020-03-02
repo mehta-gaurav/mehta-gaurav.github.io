@@ -12,7 +12,7 @@
 .active {
     color: white !important;
     background-color: #000033;
-    border-right: 7px solid orange !important;
+    border-left: 7px solid orange !important;
 }
 
 /*  #tm:checked+.main-menu {
@@ -227,7 +227,7 @@ a:-webkit-any-link {
     }
     
     .sidebar_scroll {
-    line-height: 1rem;
+    line-height: .85rem;
     overflow-y: auto;
     max-height: 65vh;
     direction: rtl; 
