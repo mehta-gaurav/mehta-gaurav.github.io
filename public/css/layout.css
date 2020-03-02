@@ -200,7 +200,7 @@ a:-webkit-any-link {
         top: 100%;
         left: 0;
         z-index: 3000;
-        border-bottom: 0.4px groove rgba(255,255,255,.5);
+/*         border-bottom: 0.4px groove rgba(255,255,255,.5); */
         font-size: 14px;
     }
     
@@ -211,7 +211,7 @@ a:-webkit-any-link {
         top: 100%;
         left: 0;
         z-index: 3000;
-        border-bottom: 0.4px groove rgba(255,255,255,.5);
+/*         border-bottom: 0.4px groove rgba(255,255,255,.5); */
         font-size: 14px;
     }
     
