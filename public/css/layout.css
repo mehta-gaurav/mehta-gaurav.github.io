@@ -87,15 +87,15 @@ a:-webkit-any-link {
 
 #menu .sub-menu {
      display: block;
-/*     left: 100% !important;
-    top: 0 !important; */
+    left: 100% !important;
+    top: 0 !important;
     padding-left: 20px;
 /*     position: absolute; */
 }
 
 #menu .sub-menu1  {
          display: block;
-    padding-left: 25px;
+    padding-left: 45px;
     left: 100%;
     top: 0;
 /*     position: absolute; */
@@ -186,6 +186,17 @@ a:-webkit-any-link {
         float: none;
     }
     #menu .sub-menu {
+        display: block;
+        border-width: 0;
+        position: relative;
+        top: 100%;
+        left: 0;
+        z-index: 3000;
+/*         border-bottom: 0.4px groove rgba(255,255,255,.5); */
+        font-size: 14px;
+    }
+    
+      #menu .sub-menu1 {
         display: block;
         border-width: 0;
         position: relative;
