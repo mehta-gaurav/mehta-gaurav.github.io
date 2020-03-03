@@ -1,10 +1,24 @@
+.dashboard-link {
+    text-align: center;
+    background-color: #F56A25;
+    width: 10rem;
+    padding: 10px;
+    display: inline-block;
+    width: 25%;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.dashboard-link a {
+    color: #17195C;
+}
+
 #menu ul {
     margin: 0;
     padding: 0;
 }
 
  #menu li {   
-/*       border-bottom: 0.4px groove rgba(255,255,255,.5);  */
     }
 
  #menu .main-menu {
@@ -19,10 +33,6 @@
     border-left: 7px solid #E57200 !important;
 }
 
-/*  #tm:checked+.main-menu {
-    display: block;
-}   */
-
  #menu input[type="checkbox"],
 #menu ul span.drop-icon {
     display: none;
@@ -31,14 +41,11 @@
 #menu li,
 #toggle-menu,
 #menu .sub-menu {
-/*     border-style: solid;
-    border-color: rgba(0, 0, 0, .05); */
 }
 
 #menu li,
 #toggle-menu {
     border-width: 0 0 1px;
-/*     border-bottom: 0.4px groove rgba(255,255,255,.5); */
 }
 
 #menu .sub-menu {
@@ -53,11 +60,9 @@
 #menu li,
 #toggle-menu,
 #menu a {
-/*     position: relative; */
     display: block;
     color: white;
     text-shadow: 1px 1px 0 rgba(0, 0, 0, .125);
-/*     width: 235px;        */
 }
 
 a:-webkit-any-link {
@@ -71,10 +76,7 @@ a:-webkit-any-link {
 
 #toggle-menu,
 #menu a {
-   padding: .6em 0.5em;
-/*    border-bottom: 0.4px groove rgba(255,255,255,.5); */
-/*    border-width: 1px 1px 0; */
-    
+   padding: .6em 0.5em;    
 }
 
 #menu a {
@@ -83,7 +85,6 @@ a:-webkit-any-link {
 }
 
 #menu a:hover {
-/*     background-color: #232D4B; */
     color: white  !important;
 }
 
@@ -91,23 +92,14 @@ a:-webkit-any-link {
 
 #menu .sub-menu {
      display: block;
-/*      border-bottom: 0.4px groove rgba(255,255,255,.5); */
-
-/*     left: 100% !important;
-    top: 0 !important; */
     padding-left: 20px;
-/*     position: absolute; */
+
 }
 
 #menu .sub-menu1  {
-         display: block;
+    display: block;
     padding-left: 45px;
-/*     border-bottom: 0.4px groove rgba(255,255,255,.5); */
-
-/*     left: 100%;
-    top: 0; */
-/*     position: absolute; */
-     background-color: #232D4B;
+    background-color: #232D4B;
    
 }
 
