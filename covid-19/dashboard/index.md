@@ -1,6 +1,6 @@
-## COVID-19 Surveillance Dashboard
- 
- [![View Dashboard](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](http://nssac.bii.virginia.edu/covid-19/dashboard/)
+## COVID-19 Surveillance Dashboard &nbsp;&nbsp;&nbsp;&nbsp; [![View Dashboard](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](http://nssac.bii.virginia.edu/covid-19/dashboard/)
+
+<button name="button" onclick="https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social">Click me</button>
 
 In an effort to support the planning and response efforts for the recent Coronavirus outbreak,
 the [Network Systems Science and Advanced Computing (NSSAC)](https://biocomplexity.virginia.edu/nssac)
