@@ -1,4 +1,4 @@
-## [COVID-19 Imported Cases Dashboard]
+## COVID-19 Cases and Clusters Outside of China Dashboard
 
 ##### 02/11/2020
 
