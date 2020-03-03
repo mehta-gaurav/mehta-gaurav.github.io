@@ -1,6 +1,6 @@
 .dashboard-link {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     font-weight: bold;
     margin: 10px 0px;
 }
