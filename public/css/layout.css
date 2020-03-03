@@ -236,7 +236,7 @@ a:-webkit-any-link {
     }
     
     .sidebar_scroll {
-    line-height: .85rem;
+    line-height: 1.2rem;
     overflow-y: auto;
     max-height: 65vh;
     direction: rtl; 
