@@ -1,7 +1,7 @@
 ## COVID-19 Surveillance Dashboard
 
 {: .dashboard-link}
-[View Dashboard](http://nssac.bii.virginia.edu/covid-19/dashboard/)
+[View Dashboard](http://nssac.bii.virginia.edu/covid-19/dashboard/){:target="_blank"}  
 
 
 In an effort to support the planning and response efforts for the recent Coronavirus outbreak,
