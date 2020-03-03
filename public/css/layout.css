@@ -1,16 +1,14 @@
 .dashboard-link {
-    text-align: center;
-    background-color: #F56A25;
-    width: 10rem;
-    padding: 10px;
-    display: inline-block;
-    width: 25%;
+    display: flex;
+    flex-direction: row-reverse;
     font-weight: bold;
-    font-size: 20px;
+    margin: 10px 0px;
 }
 
 .dashboard-link a {
-    color: #17195C;
+    color: #17195C !important;
+    background-color: #F56A25;
+    padding: 3px 15px;
 }
 
 #menu ul {
