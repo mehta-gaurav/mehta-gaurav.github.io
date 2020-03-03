@@ -1,5 +1,8 @@
 ## COVID-19 Cases and Clusters Outside of China Dashboard
 
+{: .dashboard-link}
+[View Dashboard](http://nssac.bii.virginia.edu/covid-19/cluster-dashboard){:target="_blank"}  
+
 ##### 02/11/2020
 
 In an effort to support the planning and response efforts for the recent Coronavirus outbreak,
