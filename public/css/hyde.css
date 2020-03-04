@@ -66,7 +66,7 @@ html {
 }
 
 .head-img {
-/*     border-top: 5px solid #E57200; */
+    border-top: 5px solid #E57200;
   }
 
 @media (min-width: 48em) {
@@ -82,7 +82,7 @@ html {
   .head-img {
     width: calc(100% - 15em);
     float: right;
-/*     border-top: 5px solid #E57200; */
+    border-top: 5px solid #E57200;
 
   }
 }
