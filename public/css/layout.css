@@ -91,9 +91,9 @@ a:-webkit-any-link {
 
 
 #menu .sub-menu {
-     display: block;
+    display: block;
     padding-left: 20px;
-
+    font-size: 15px;
 }
 
 #menu .sub-menu1  {
@@ -165,7 +165,7 @@ a:-webkit-any-link {
 @media only screen and (min-width: 52.01em) {
     #menu .main-menu {
     display: block;       
-    font-size: 17px;
+    font-size: 18px;
     /* overflow-y: scroll; */
     }
     
@@ -193,7 +193,7 @@ a:-webkit-any-link {
         left: 0;
         z-index: 3000;
 /*         border-bottom: 0.4px groove rgba(255,255,255,.5); */
-        font-size: 14px;
+        font-size: 15px;
     }
     
       #menu .sub-menu1 {
