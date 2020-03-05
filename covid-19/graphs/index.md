@@ -4,21 +4,23 @@
 
 <div class="row-split">
   <div class="column-split" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+    <h2>Think Beyond the PowerPoint Templates</h2>
+    <p>
+PowerPoint is by far the most popular visualization tool, but the built-in templates in the program might not be doing your data any favors. Rather than trying to get fancy (yeah, this is directed at 3D pie charts), try to keep your visualizations as simple and uncluttered as possible. If you really want to go for it Design Bundles has a great selection of tools for infographics. These can look spectacular and really make data sing.
+    </p>
   </div>
-  <div class="column-split" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+  <div class="column-split" style="background-color:#bbb;"> 
+    <img src="C:\Users\murali_rander\Downloads\Oldfaithful3.png" alt="Italian Trulli">
   </div>
   
    <div class="column-split" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+    <h2>Think Beyond the PowerPoint Templates</h2>
+    <p>
+      PowerPoint is by far the most popular visualization tool, but the built-in templates in the program might not be doing your data any favors. Rather than trying to get fancy (yeah, this is directed at 3D pie charts), try to keep your visualizations as simple and uncluttered as possible. If you really want to go for it Design Bundles has a great selection of tools for infographics. These can look spectacular and really make data sing.
+  </p>
   </div>
   <div class="column-split" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+   <img src="C:\Users\murali_rander\Downloads\Oldfaithful3.png" alt="Italian Trulli">
   </div>
 </div>
 
