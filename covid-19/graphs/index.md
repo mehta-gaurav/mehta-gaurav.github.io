@@ -55,11 +55,11 @@ as possible. If you really want to go for it Design Bundles has a great
 selection of tools for infographics. These can look spectacular and
 really make data sing.
 
+</div>
+
 <div class="column-split" markdown="1">
 
 ![Italian Trulli]
-
-</div>
 
 </div>
 
