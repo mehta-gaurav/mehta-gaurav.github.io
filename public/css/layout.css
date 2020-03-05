@@ -214,7 +214,7 @@ a:-webkit-any-link {
         z-index: 3000;
 /*         border-bottom: 0.4px groove rgba(255,255,255,.5); */
         font-size: 15px;       
-         padding-left: 13px !important;
+         padding-left: 6px !important;
     }
     
       #menu .sub-menu1 {
