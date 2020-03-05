@@ -207,7 +207,7 @@ a:-webkit-any-link {
     }
     #menu li {
         float: none;
-        padding-left: 0 ;
+        padding-left: 7px ;
     }
     #menu .sub-menu li {
         float: none;
