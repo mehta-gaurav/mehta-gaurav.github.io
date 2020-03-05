@@ -51,6 +51,13 @@
     border-left: 7px solid #E57200 !important;
 }
 
+.sub-menu.active {
+    color: white !important;
+    background-color: #000033 !important;
+    border-left: 7px solid #E57200 !important;
+    padding-left: 6px !important;
+}
+
  #menu input[type="checkbox"],
 #menu ul span.drop-icon {
     display: none;
@@ -214,7 +221,7 @@ a:-webkit-any-link {
         z-index: 3000;
 /*         border-bottom: 0.4px groove rgba(255,255,255,.5); */
         font-size: 15px;       
-         padding-left: 6px !important;
+  
     }
     
       #menu .sub-menu1 {
