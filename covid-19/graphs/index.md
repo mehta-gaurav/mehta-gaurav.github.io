@@ -1,12 +1,8 @@
 Two Equal Columns {#two-equal-columns}
 -----------------
 
-<div class="row-split" markdown="1">
-
-<div class="column-split" markdown="1">
-
 #### Think Beyond the PowerPoint Templates {#think-beyond-the-powerpoint-templates}
-
+{: .column-split}
 PowerPoint is by far the most popular visualization tool, but the
 built-in templates in the program might not be doing your data any
 favors. Rather than trying to get fancy (yeah, this is directed at 3D
@@ -15,13 +11,9 @@ as possible. If you really want to go for it Design Bundles has a great
 selection of tools for infographics. These can look spectacular and
 really make data sing.
 
-</div>
-
-<div class="column-split" markdown="1">
-
+{: .column-split}
 ![Italian Trulli]
 
-</div>
 
 <div class="column-split" markdown="1">
 
