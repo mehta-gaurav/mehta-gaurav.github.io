@@ -55,6 +55,4 @@ really make data sing.
 
 </div>
 
-</div>
-
   [Italian Trulli]: https://mehta-gaurav.github.io/images/Oldfaithful3.png
