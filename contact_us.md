@@ -1,7 +1,5 @@
-### Contact Us |  [Support](mailto:nssac_ncov_support@virginia.edu?subject=Surveillance%20Dashboard)
+### Contact Us 
 
 
-- For queries related to the COVID-19 outbreak, please contact [Bryan Lewis and Srini Venkatramanan](mailto:nssac_covid19_coordinators@virginia.edu?subject=Research%20Website%20COVID-19%20Query)
-- For all queries, please contact [Madhav Marathe-NSSAC Director, Bryan Lewis, Srini Venkatramanan, Mandy Wilson](mailto:nssac_covid19_coordinators@virginia.edu?subject=Research%20Website%20Query)
-
-
+- For support issues or feedback on the Dashboard applications, email [COVID-19 Support Team](mailto:nssac_ncov_support@virginia.edu)
+- For queries about our research, please contact [Bryan Lewis, Madhav Marathe, Srini Venkatramanan, and Mandy Wilson](mailto:nssac_covid19_coordinators@virginia.edu?subject=Research%20Website%20Query)
