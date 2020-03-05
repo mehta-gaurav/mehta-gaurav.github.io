@@ -1,11 +1,15 @@
 .column-split {
-  box-sizing: border-box;
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+    margin-top: 16px;
+    box-sizing: border-box;
+    float: left;
+    width: 50%;
+    padding: 10px;
 }
 
+.row-split {
+    font-size: 16px;
+
+}
 /* Clear floats after the columns */
 .row-split:after {
   content: "";
