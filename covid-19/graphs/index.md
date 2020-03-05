@@ -11,7 +11,7 @@ PowerPoint is by far the most popular visualization tool, but the built-in templ
 
 </div>
 
-{:.column-split}
+{: .column-split}
 ![Italian Trulli](https://mehta-gaurav.github.io/images/Oldfaithful3.png)
 
 <div class="column-split">
