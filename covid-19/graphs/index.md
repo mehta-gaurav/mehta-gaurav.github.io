@@ -21,4 +21,4 @@
 </div>
  -->
 
-<h2>Two Equal Columns</h2>
+## Two Equal Columns
