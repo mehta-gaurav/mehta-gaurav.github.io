@@ -10,7 +10,7 @@ PowerPoint is by far the most popular visualization tool, but the built-in templ
     </p>
   </div>
   <div class="column-split" style="background-color:#bbb;"> 
-    <img src="C:\Users\murali_rander\Downloads\Oldfaithful3.png" alt="Italian Trulli">
+    <img src="https://mehta-gaurav.github.io/images/Oldfaithful3.png" alt="Italian Trulli">
   </div>
   
    <div class="column-split" style="background-color:#aaa;">
@@ -20,7 +20,7 @@ PowerPoint is by far the most popular visualization tool, but the built-in templ
   </p>
   </div>
   <div class="column-split" style="background-color:#bbb;">
-   <img src="C:\Users\murali_rander\Downloads\Oldfaithful3.png" alt="Italian Trulli">
+   <img src="https://mehta-gaurav.github.io/images/Oldfaithful3.png" alt="Italian Trulli">
   </div>
 </div>
 
