@@ -49,12 +49,14 @@
     color: white !important;
     background-color: #000033 !important;
     border-left: 7px solid #E57200 !important;
+    padding-left: 0 !important;
+
 }
 
 .sub-menu.active {
     color: white !important;
     background-color: #000033 !important;
-    border-left: 7px solid #E57200 !important;
+    border-left: 12px solid #E57200 !important;
     padding-left: 13px !important;
 }
 
@@ -117,7 +119,7 @@ a:-webkit-any-link {
 
 #menu .sub-menu {
     display: block;
-    padding-left: 20px;
+    padding-left: 25px;
     font-size: 15px;
 }
 
@@ -205,9 +207,7 @@ a:-webkit-any-link {
     }
     #menu li {
         float: none;
-/*         border-width: 0 1px 0 0;
-        border-bottom: 0.4px groove rgba(255,255,255,.5); */
-
+        padding-left: 0 !important;
     }
     #menu .sub-menu li {
         float: none;
