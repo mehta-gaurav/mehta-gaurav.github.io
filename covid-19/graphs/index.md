@@ -1,9 +1,8 @@
-## Two Equal Columns
+Two Equal Columns
+-----------------
 
-<div class="row-split">
-
-<div class="column-split">
-
+::: {.row-split}
+::: {.column-split}
 #### Think Beyond the PowerPoint Templates
 
 PowerPoint is by far the most popular visualization tool, but the
@@ -13,18 +12,13 @@ pie charts), try to keep your visualizations as simple and uncluttered
 as possible. If you really want to go for it Design Bundles has a great
 selection of tools for infographics. These can look spectacular and
 really make data sing.
+:::
 
-</div>
+::: {.column-split}
+![Italian Trulli]
+:::
 
-<div class="column-split">
-
-![Italian
-Trulli](https://mehta-gaurav.github.io/images/Oldfaithful3.png)
-
-</div>
-
-<div class="column-split">
-
+::: {.column-split}
 #### Think Beyond the PowerPoint Templates
 
 PowerPoint is by far the most popular visualization tool, but the
@@ -34,18 +28,13 @@ pie charts), try to keep your visualizations as simple and uncluttered
 as possible. If you really want to go for it Design Bundles has a great
 selection of tools for infographics. These can look spectacular and
 really make data sing.
+:::
 
-</div>
+::: {.column-split}
+![Italian Trulli]
+:::
 
-<div class="column-split">
-
-![Italian
-Trulli](https://mehta-gaurav.github.io/images/Oldfaithful3.png)
-
-</div>
-
-<div class="column-split">
-
+::: {.column-split}
 #### Think Beyond the PowerPoint Templates
 
 PowerPoint is by far the most popular visualization tool, but the
@@ -55,14 +44,11 @@ pie charts), try to keep your visualizations as simple and uncluttered
 as possible. If you really want to go for it Design Bundles has a great
 selection of tools for infographics. These can look spectacular and
 really make data sing.
+:::
 
-</div>
+::: {.column-split}
+![Italian Trulli]
+:::
+:::
 
-<div class="column-split">
-
-![Italian
-Trulli](https://mehta-gaurav.github.io/images/Oldfaithful3.png)
-
-</div>
-
-</div>
+  [Italian Trulli]: https://mehta-gaurav.github.io/images/Oldfaithful3.png
