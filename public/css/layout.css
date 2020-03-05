@@ -213,8 +213,7 @@ a:-webkit-any-link {
         left: 0;
         z-index: 3000;
 /*         border-bottom: 0.4px groove rgba(255,255,255,.5); */
-        font-size: 15px;
-         border-left: 7px solid #E57200 !important;
+        font-size: 15px;       
          padding-left: 13px !important;
     }
     
