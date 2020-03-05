@@ -2,6 +2,7 @@ Two Equal Columns {#two-equal-columns}
 -----------------
 
 #### Think Beyond the PowerPoint Templates {#think-beyond-the-powerpoint-templates}
+
 {: .column-split}
 PowerPoint is by far the most popular visualization tool, but the
 built-in templates in the program might not be doing your data any
