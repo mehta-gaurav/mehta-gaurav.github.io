@@ -13,11 +13,11 @@ To this end, we have developed support tools and dashboards to help healthcare p
 
 ![COVID-19 Surveillance Dashboard](https://mehta-gaurav.github.io/draft/Surveillance_Dashboard2.png)
 
-The [COVID-19 Surveillance Dashboard](http://mehta-gaurav.bii.virginia.edu/covid-19/dashboard/){:target="_blank"} provides a visualization of COVID-19 cases, recoveries, and deaths across the globe. 
+The [COVID-19 Surveillance Dashboard](http://nssac.bii.virginia.edu/covid-19/dashboard/){:target="_blank"} provides a visualization of COVID-19 cases, recoveries, and deaths across the globe. 
 
 ![COVID-19 Cases and Clusters Outside of China Dashboard](https://mehta-gaurav.github.io/draft/Cases_And_Clusters2.png)
 
-The [COVID-19 Cases and Clusters Outside of China Dashboard](http://mehta-gaurav.bii.virginia.edu/covid-19/cluster-dashboard/){:target-"_blank"} allows users to view a detailed breakdown of infected populations outside of China in order to study how infections are distributed based on age, where cases have been imported from, whether the cases are imported or community-spread, and other filterable options.
+The [COVID-19 Cases and Clusters Outside of China Dashboard](http://nssac.bii.virginia.edu/covid-19/cluster-dashboard/){:target-"_blank"} allows users to view a detailed breakdown of infected populations outside of China in order to study how infections are distributed based on age, where cases have been imported from, whether the cases are imported or community-spread, and other filterable options.
 
 We have curated data from multiple sources to support these dashboards; these collated datasets can be used to extend global and detailed perspectives of the confirmed cases.
 
