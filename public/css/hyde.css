@@ -162,7 +162,7 @@ a.sidebar-nav-item:focus {
   .content {
     margin-left: 19rem;
     margin-right: 3rem;
-    max-width: 50em;
+    max-width: 100%;
   }
 }
 
