@@ -1,9 +1,9 @@
 ## COVID-19 Epidemic Response Resources (draft)
 The Network Systems Science and Advanced Computing (NSSAC) division has been supporting the US federal government through major epidemics since 2005, including planning for the H5N1 outbreak, the 2009 H1N1 pandemic, the MERS outbreak of 2012, the 2014 Ebola outbreak, the 2016 Zika outbreak, and the recent Ebola outbreak in Congo. 
 
-The Novel 2019 Coronavirus (COVID-19) is a rapidly spreading epidemic that was first identified in China but has since spread across the globe. The [CDC says it is likely that COVID-19 will escalate and become a pandemic](https://www.cdc.gov/coronavirus/2019-nCoV/summary.html). Concerted global efforts will be required to mitigate the effects of COVID-19.  While the severity and the extent of the disease cannot yet be predicted with certainty, identification of effective interventions and preventative methods, even at this relatively early stage, will be critical. Non-pharmaceutical measures, such as social distancing, effective isolation, and quarantine, will also be critical in order to control this epidemic.  In addition, the general public needs to [be aware of guidelines they can use to protect themselves](https://nssac.github.io/draft/prevention).
+The Novel 2019 Coronavirus (COVID-19) is a rapidly spreading epidemic that was first identified in China but has since spread across the globe. The [CDC says it is likely that COVID-19 will escalate and become a pandemic](https://www.cdc.gov/coronavirus/2019-nCoV/summary.html). Concerted global efforts will be required to mitigate the effects of COVID-19.  While the severity and the extent of the disease cannot yet be predicted with certainty, identification of effective interventions and preventative methods, even at this relatively early stage, will be critical. Non-pharmaceutical measures, such as social distancing, effective isolation, and quarantine, will also be critical in order to control this epidemic.  In addition, the general public needs to [be aware of guidelines they can use to protect themselves](https://mehta-gaurav.github.io/draft/prevention).
 
-![Import Risk: Estimated COVID-19 arrival times based on effective distance to all countries.](https://nssac.github.io/draft/Import_Risk_Image2.png)
+![Import Risk: Estimated COVID-19 arrival times based on effective distance to all countries.](https://mehta-gaurav.github.io/draft/Import_Risk_Image2.png)
 
 With respect to COVID-19, we have been working with federal authorities to address questions like the risk of importation of COVID-19 to the US and other countries, location of likely clusters within the US, and estimation of various disease progression parameters. 
 
@@ -11,18 +11,18 @@ Researchers at NSSAC have been analyzing a variety of counterfactual and what-if
 
 To this end, we have developed support tools and dashboards to help healthcare providers and the general public to better evaluate the status of the epidemic. 
 
-![COVID-19 Surveillance Dashboard](https://nssac.github.io/draft/Surveillance_Dashboard2.png)
+![COVID-19 Surveillance Dashboard](https://mehta-gaurav.github.io/draft/Surveillance_Dashboard2.png)
 
-The [COVID-19 Surveillance Dashboard](http://nssac.bii.virginia.edu/covid-19/dashboard/){:target="_blank"} provides a visualization of COVID-19 cases, recoveries, and deaths across the globe. 
+The [COVID-19 Surveillance Dashboard](http://mehta-gaurav.bii.virginia.edu/covid-19/dashboard/){:target="_blank"} provides a visualization of COVID-19 cases, recoveries, and deaths across the globe. 
 
-![COVID-19 Cases and Clusters Outside of China Dashboard](https://nssac.github.io/draft/Cases_And_Clusters2.png)
+![COVID-19 Cases and Clusters Outside of China Dashboard](https://mehta-gaurav.github.io/draft/Cases_And_Clusters2.png)
 
-The [COVID-19 Cases and Clusters Outside of China Dashboard](http://nssac.bii.virginia.edu/covid-19/cluster-dashboard/){:target-"_blank"} allows users to view a detailed breakdown of infected populations outside of China in order to study how infections are distributed based on age, where cases have been imported from, whether the cases are imported or community-spread, and other filterable options.
+The [COVID-19 Cases and Clusters Outside of China Dashboard](http://mehta-gaurav.bii.virginia.edu/covid-19/cluster-dashboard/){:target-"_blank"} allows users to view a detailed breakdown of infected populations outside of China in order to study how infections are distributed based on age, where cases have been imported from, whether the cases are imported or community-spread, and other filterable options.
 
 We have curated data from multiple sources to support these dashboards; these collated datasets can be used to extend global and detailed perspectives of the confirmed cases.
 
 We have also looked at international importation risk based on air travel, estimating the impact of airport suspensions in delaying case emergence; a new dashboard application is under development which will allow users to explore the impact of applying social interventions to air travel. 
-![COVID-19 Impact of Air Travel on International Importation](https://nssac.github.io/draft/Figure_From_Paper2.png)
+![COVID-19 Impact of Air Travel on International Importation](https://mehta-gaurav.github.io/draft/Figure_From_Paper2.png)
  
 Moving forward, we are exploring other strategies for understanding and mitigating the spread of COVID-19. We are developing AI-based methods for creating digital twins of cities that can be used with the simulations to study various what-if scenarios. We are continuing to develop easy-to-use decision support tools for planning and response efforts. We are also curating and synthesizing datasets that we can share with the larger academic community for the development of models and additional support tools. Such efforts will help identify data and knowledge gaps, quantify uncertainty, and enhance our level of preparedness based on existing resources. 
 
